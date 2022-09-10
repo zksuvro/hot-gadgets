@@ -1,0 +1,51 @@
+#dott {
+    background-color: black;
+    height: 8px;
+    border-radius: 15px;
+}
+
+.banner h1 {
+    padding-bottom: 20px;
+}
+
+.banner p {
+    width: 60%;
+}
+
+.btn-buy-now{
+    border: none;
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: white;
+    padding: 10px 45px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.banimg {
+    padding: 50px;
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 100px 550px;
+    float: left;
+}
+.card{
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card img{
+    padding: 50px;
+}
+.categories{
+    padding: 20px 0;
+}
+section{
+    padding-top: 60px;
+}
+.bag{
+    background-color: beige;
+    padding: 20px;
+}
+.perfume{
+    background-color: beige;
+    padding: 20px;
+}
